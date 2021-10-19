@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nietoperze &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/nietoperze/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Mon, 11 Jun 2018 11:33:22 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>nietoperze &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Stacja Nauka PR4</title>
+		<link>/2018/01/12/stacja-nauka-pr4/</link>
+		
+		<dc:creator><![CDATA[blu]]></dc:creator>
+		<pubDate>Fri, 12 Jan 2018 23:09:47 +0000</pubDate>
+				<category><![CDATA[O zwierzętach]]></category>
+		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[nietoperze]]></category>
+		<category><![CDATA[ochrona gatunków]]></category>
+		<category><![CDATA[Rzecznicy Nauki]]></category>
+		<category><![CDATA[syndrom bialego nosa]]></category>
+		<guid isPermaLink="false">/?p=2222</guid>
+
+					<description><![CDATA[O chorobie nietoperzy opowiadam w Radiowej Czwórce. &#160; &#160; &#160; &#160;]]></description>
+										<content:encoded><![CDATA[<p>O chorobie nietoperzy opowiadam w <a href="https://www.polskieradio.pl/10/5366/Artykul/1987522,Stacja-Nauka-11-stycznia-godz-1204">Radiowej Czwórce</a>.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

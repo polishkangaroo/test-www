@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Edukator.pl &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/edukator-pl/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Sun, 10 Jun 2018 22:31:40 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>Edukator.pl &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Wywiad dla portalu Edukator.pl</title>
+		<link>/2014/02/13/wywiad-dla-portalu-edukator-pl/</link>
+		
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Thu, 13 Feb 2014 00:10:40 +0000</pubDate>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Cambridge University]]></category>
+		<category><![CDATA[Edukator.pl]]></category>
+		<category><![CDATA[Jacobs University]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[polscy naukowcy]]></category>
+		<category><![CDATA[polscy studenci]]></category>
+		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=476</guid>
+
+					<description><![CDATA[&#160; Resztę wywiadów można obejrzeć na stronie Edukator.pl &#160;]]></description>
+										<content:encoded><![CDATA[<p><a href="https://jbagniewska.files.wordpress.com/2014/02/edukator.png"><img loading="lazy" class="alignnone wp-image-477 size-full" src="https://jbagniewska.files.wordpress.com/2014/02/edukator.png" alt="edukator" width="500" height="430" /></a></p>
+<p>&nbsp;</p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/ecGffDnOsR4?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+<p><span style="line-height: 1.7;">Resztę wywiadów można obejrzeć na stronie </span><a style="line-height: 1.7;" href="https://media.edukator.pl/Polskie-Perspektywy,9854.html">Edukator.pl</a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

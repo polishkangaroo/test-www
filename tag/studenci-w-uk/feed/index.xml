@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>studenci w UK &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/studenci-w-uk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Sun, 10 Jun 2018 12:30:29 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>studenci w UK &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Film promocyjny The Kings Foundation</title>
+		<link>/2013/07/22/film-promocyjny-the-kings-foundation/</link>
+		
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 22 Jul 2013 18:16:07 +0000</pubDate>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Oksford]]></category>
+		<category><![CDATA[polscy naukowcy]]></category>
+		<category><![CDATA[polscy studenci]]></category>
+		<category><![CDATA[studenci w UK]]></category>
+		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[Uniwersytet Oksfordzki]]></category>
+		<category><![CDATA[uniwersytety]]></category>
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=375</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/vOrWgldd-Ic?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

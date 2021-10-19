@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sukces &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/sukces/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Thu, 17 May 2018 21:13:33 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>sukces &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Krótki wywiad z Kongresu Obywatelskiego</title>
+		<link>/2015/01/02/krotki-wywiad-z-kongresu-obywatelskiego/</link>
+		
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Fri, 02 Jan 2015 17:11:11 +0000</pubDate>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[innowacyjność]]></category>
+		<category><![CDATA[Kongres Obywatelski]]></category>
+		<category><![CDATA[sukces]]></category>
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=849</guid>
+
+					<description><![CDATA[Udało mi się zacytować Nielsa Bohra!]]></description>
+										<content:encoded><![CDATA[<p>Udało mi się zacytować Nielsa Bohra!</p>
+<p><iframe loading="lazy" width="790" height="444" src="https://www.youtube.com/embed/yOhH2o_GmPk?feature=oembed" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

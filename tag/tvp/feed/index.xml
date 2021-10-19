@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>TVP &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/tvp/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Sat, 09 Jun 2018 22:23:43 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>TVP &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pytanie na śniadanie &#8211; wywiad</title>
+		<link>/2016/08/27/pytanie-na-sniadanie-wywiad/</link>
+		
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sat, 27 Aug 2016 21:19:35 +0000</pubDate>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Video]]></category>
+		<category><![CDATA[Brexit]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[pszczoły]]></category>
+		<category><![CDATA[Pytanie na Śniadanie]]></category>
+		<category><![CDATA[TVP]]></category>
+		<guid isPermaLink="false">http://joannabagniewska.com/?p=1568</guid>
+
+					<description><![CDATA[O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w Pytaniu na Śniadanie.]]></description>
+										<content:encoded><![CDATA[<p>O pszczołach, Brexicie i pracy naukowca w Wielkiej Brytanii opowiadam w <a href="https://pytanienasniadanie.tvp.pl/26190116/tresowane-pszczoly-moga-wykryc-bombe">Pytaniu na Śniadanie</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

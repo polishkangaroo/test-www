@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Angora &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<atom:link href="/tag/angora/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>zoologist &#124; science communicator </description>
+	<lastBuildDate>Sun, 10 Jun 2018 12:34:01 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/04/cropped-PhotoAKrajewski-3-32x32.jpg</url>
+	<title>Angora &#8211; Dr JOANNA BAGNIEWSKA</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>W awangardzie &#8211; VIII Kongres Polskich Stowarzyszeń Studenckich</title>
+		<link>/2015/03/02/w-awangardzie-viii-kongres-polskich-stowarzyszen-studenckich/</link>
+		
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Mon, 02 Mar 2015 20:32:17 +0000</pubDate>
+				<category><![CDATA[O mojej pracy]]></category>
+		<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Angora]]></category>
+		<category><![CDATA[Federacja Polskich Stowaryszeń Studenckich w UK]]></category>
+		<category><![CDATA[kongres]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[Polacy za granicą]]></category>
+		<category><![CDATA[polscy studenci]]></category>
+		<guid isPermaLink="false">https://jbagniewska.wordpress.com/?p=876</guid>
+
+					<description><![CDATA[Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku Angora (pdf tekstu po kliknięciu w link).]]></description>
+										<content:encoded><![CDATA[<p>Sprawozdanie Henryka Martenki z VIII Kongresu Polskich Stowarzyszeń Studenckich w tygodniku <em><a href="https://jbagniewska.files.wordpress.com/2015/03/angora_2015-10_77.pdf">Angora</a></em> (pdf tekstu po kliknięciu w link).<span id="more-876"></span></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Drugi biegun inwazji&#8230;</title>
+		<link>/2011/04/03/drugi-biegun-inwazji/</link>
+		
+		<dc:creator><![CDATA[Joanna]]></dc:creator>
+		<pubDate>Sun, 03 Apr 2011 22:15:00 +0000</pubDate>
+				<category><![CDATA[Po polsku]]></category>
+		<category><![CDATA[Angora]]></category>
+		<category><![CDATA[Polacy w UK]]></category>
+		<category><![CDATA[Polacy za granicą]]></category>
+		<category><![CDATA[polscy naukowcy]]></category>
+		<category><![CDATA[polscy studenci]]></category>
+		<category><![CDATA[studia zagraniczne]]></category>
+		<category><![CDATA[Wielka Brytania]]></category>
+		<guid isPermaLink="false">http://jbagniewska.wordpress.com/?p=334</guid>
+
+					<description><![CDATA[Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.]]></description>
+										<content:encoded><![CDATA[<p>Artykuł Marty Kuliś, ANGORA nr 14, 03.04.2011.</p>
+<p><a href="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg"><img loading="lazy" class="alignnone size-large wp-image-114" src="https://jbagniewska.files.wordpress.com/2013/03/angora_kongres.jpg?w=500" alt="Drugi biegun inwazji" width="500" height="620" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
